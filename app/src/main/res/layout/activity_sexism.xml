@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccentLight"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:id="@+id/sexismLayout"
+    tools:context=".Sexism">
+
+    <ImageView
+        android:id="@+id/ivRubySad"
+        android:layout_width="match_parent"
+        android:layout_height="342dp"
+        android:contentDescription="@string/sad_ruby"
+        app:srcCompat="@drawable/ruby_sad" />
+
+    <TextView
+        android:id="@+id/tvGameOver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="15dp"
+        android:text="@string/while_this_might_not_be_an_automatic_gameover_it_can_certainly_lead_to_one_systematic_workplace_sexism_is_one_of_the_reasons_women_fail_to_thrive_in_tech"
+        android:textColor="@color/colorAccent"
+        android:textSize="18sp"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btnReadSexism"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="start"
+        android:padding="5dp"
+        android:text="@string/find_out_more_about_how_to_standup_to_workplace_sexism"
+        android:textColor="@color/colorAccentLight"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+    <Button
+        android:id="@+id/btnPlayAgain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginBottom="15dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="start"
+        android:padding="5dp"
+        android:text="@string/play_again"
+        android:textColor="@color/colorAccentLight"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:typeface="monospace" />
+
+</LinearLayout>

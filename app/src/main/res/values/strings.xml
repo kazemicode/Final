@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="title_image">Title image</string>
+    <string name="btnStart">Start</string>
+    <string name="ruby_sleeping">Ruby sleeping</string>
+    <string name="ruby_it_s_your_first_day_at_your_software_engineering_internship_wake_up">Ruby...it\'s your first day at your software engineering internship. Wake up!</string>
+    <string name="they_made_a_mistake_i_m_not_good_enough_i_ll_try_again_next_year">They made a mistake. I\'m not good enough. I\'ll try again next year.</string>
+    <string name="i_m_really_nervous_but_no_intern_knows_everything_their_first_day_let_s_do_this">I\'m really nervous, but no intern knows everything their first day. Let\'s do this.</string>
+
+    <string name="title_activity_scene2">Scene2</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="sad_ruby">Sad Ruby</string>
+    <string name="imposter_syndrome_got_the_best_of_you_holding_you_back_from_an_amazing_summer_of_learning_and_building_a_string_network_with_other_amazing_women_and_rolemodels_in_the_technology_industry">Imposter syndrome got the best of you, holding you back from an amazing summer of learning and building a strong network with other amazing women and role models in the technology industry.</string>
+    <string name="find_out_more_about_imposter_syndrome">Find out more about Imposter syndrome</string>
+    <string name="play_again">Play again</string>
+    <string name="even_though_you_re_anxious_about_your_first_day_you_show_up_unfortunately_your_first_encounter_is_not_a_positive_one">Even though you\'re anxious about your first day, you show up. Unfortunately, your first encounter is not a positive one.</string>
+    <string name="diversity_hire">A man approaches you as you walk in, \"Oh hi! You must be the new diversity hire!\"</string>
+    <string name="tech_bro">Tech Bro</string>
+    <string name="brush_it_off_with_a_smile_he_doesn_t_mean_anything_by_it">Brush it off with a smile. He doesn\'t mean anything by it.</string>
+    <string name="introduce_yourself_as_the_new_software_engineering_intern">Introduce yourself as the new software engineering intern. Then, with a confused look, inquire why he thought you were the diversity hire.</string>
+    <string name="while_this_might_not_be_an_automatic_gameover_it_can_certainly_lead_to_one_systematic_workplace_sexism_is_one_of_the_reasons_women_fail_to_thrive_in_tech">While this might not be an automatic gameover, it can certainly lead to one. Systematic workplace sexism is one of the reasons women fail to thrive in tech.</string>
+    <string name="find_out_more_about_how_to_standup_to_workplace_sexism">Find out more about standing up to workplace sexism</string>
+    <string name="victorious_ruby">Victorious Ruby</string>
+    <string name="tbd">Caught off guard by your question, and perhaps a bit ashamed of his assumption, your new colleague struggles to explain himself. You excuse yourself to sign in with HR. You are proud of yourself for calling attention to implicit sexism and you look forward to new, exciting experiences at your internship. </string>
+</resources>
